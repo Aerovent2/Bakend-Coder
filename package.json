@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node./desafioClase6.js"
+    "start": "node ./desafioClase6.js"
   },
   "author": "",
   "license": "ISC",
