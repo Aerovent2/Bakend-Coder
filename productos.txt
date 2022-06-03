@@ -1,0 +1,1 @@
+[{"title":"producto1","price":111,"thumbnail":"https//..1.com","id":0},{"title":"producto2","price":222,"thumbnail":"https//..2.com","id":1},{"title":"producto3","price":333,"thumbnail":"https//..3.com","id":2}]
